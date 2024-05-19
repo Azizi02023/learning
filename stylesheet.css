@@ -1,0 +1,41 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.cover{
+	width: 300px;
+	height: 300px;
+	display: flex;
+	gap: 4px 8px;
+	padding-top: 10px;
+    margin: auto;
+	justify-content: center;
+
+}
+.main{
+	background-color: red;
+}
+img{
+	height: 200px;
+	width: 300px;
+	border-radius: 10px;
+}
+.tit{
+
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+	color: white;
+	position: relative;
+	font-size: 30px;
+	font-family: bradley hand, cursive;
+	background-color: lightpink;
+
+}
+h3{
+	font-size: 35px;
+	padding-bottom: 20px;
+	color: black;
+	
+	font-family: bradley hand, cursive;
+}
+span{
+	color: orange;
